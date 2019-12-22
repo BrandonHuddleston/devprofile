@@ -11,14 +11,9 @@ The app will pull infor from the profile the user enter into the prompt.
 
 # Installing the Application
 1. Install the dependencies by typing "npm install" in terminal/command prompt.
-<br>
 ![1](https://github.com/BrandonHuddleston/devprofile/blob/master/readme-images/Step1.png)
-<br>
 2. Run the line "node index.js" to start application.
 3. Enter Github user and choose color.
-<br>
 ![2](https://github.com/BrandonHuddleston/devprofile/blob/master/readme-images/Step2.png)
-<br>
 4. Open PDF from directory.
-<br>
 ![3](https://github.com/BrandonHuddleston/devprofile/blob/master/readme-images/Step3.png)
